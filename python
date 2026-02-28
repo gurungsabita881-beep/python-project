@@ -1,0 +1,7 @@
+# Using + operator
+a = "Hello"
+b = "World"
+result = a + " " + b
+print(result)  
+print(rajan)
+
