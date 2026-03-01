@@ -5,3 +5,10 @@ print("sum:",a+b)
 print("Difference:",a-b)
 print("product:",a*b)
 print("Quotient:",a/b)
+
+l = float(input("Enter length: "))
+w = float(input("Enter width: "))
+print("Area:", l * w)
+print("Perimeter:", 2 * (l + w))
+
+
